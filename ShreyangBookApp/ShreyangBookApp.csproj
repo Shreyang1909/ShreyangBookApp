@@ -18,6 +18,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ShreyangBook.DataAccess\ShreyangBook.DataAccess.csproj" />
     <ProjectReference Include="..\ShreyangBook.Models\ShreyangBook.Models.csproj" />
+    <ProjectReference Include="..\ShreyangBook.Utility\ShreyangBook.Utility.csproj" />
   </ItemGroup>
 
 </Project>

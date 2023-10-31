@@ -80,3 +80,7 @@ Solved 3 errors by added using statement.
 Modified Startup.cs
 Changed reference in Error.cshtml
 Ran application, worked perfectly
+
+1258
+Added SD.cs class in Utility project
+Added project referenes Main project and DataAccess
