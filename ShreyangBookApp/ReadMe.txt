@@ -44,5 +44,9 @@ change footer into _Layout.cshtml folder with text-white 50 bg-primary.
 removed a text-dark from line 9,20,23 of loginPartial.cshtml folder
 Tested project, ran perfectly
 
+1214
+Added styles and scripts in _Layout.cshtml
 
+1216
+Added dropdown in _Layout.cshtml 
 
