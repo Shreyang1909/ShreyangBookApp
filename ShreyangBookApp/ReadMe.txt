@@ -100,3 +100,14 @@ Moved Home folder to Customer Views
 1311
 Moved _ViewImport and _ViewStart to customer views
 Tested application, ran perfectly
+
+1315
+Added New Area Named Admin
+Deleted Data and Models folder
+
+1316
+Deleted controllers folder from main project
+Tested Appliocation, ran successfully
+
+1318
+Upldated README.md
