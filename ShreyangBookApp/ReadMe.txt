@@ -96,3 +96,7 @@ Deleted Data and Models
 1305
 Modified namespace in HomeController.cs 
 Moved Home folder to Customer Views
+
+1311
+Moved _ViewImport and _ViewStart to customer views
+Tested application, ran perfectly
