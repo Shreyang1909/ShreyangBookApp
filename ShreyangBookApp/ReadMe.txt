@@ -15,3 +15,32 @@ Added description in READMe.txt
 
 1157
 In startup.cs ,Commented out options => options.SignIn.RequireConfirmedAccount = true 
+
+1159
+Created Github repositery named ShreyangBookApp
+
+1200
+Reviewed all files
+
+1202
+Added breakpoints in HomeController.cs for Index and Privacy pages.
+Tested Application , run perfectly.
+
+1203
+download a Superhero theme from Bootswatch website
+
+1204
+into wwwroot folder add new file into css folder with the name of Bootstrap.css
+
+1206
+replace the site.css file with the given site.css file 
+make change into layout.cshtml file with removing .min from 7th line
+into layout.cshtml folder change navbar_light with a Navbar_dark and change bg_light to Bg_primary
+
+1208
+change footer into _Layout.cshtml folder with text-white 50 bg-primary.
+
+1555
+removed a text-dark from line 9,20,23 of loginPartial.cshtml folder
+
+
