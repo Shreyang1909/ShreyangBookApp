@@ -66,3 +66,17 @@ Deleted Migration folder
 1236
 Modified namespace in ApplicationDbContext.cs
 Deleted Class1.cs from 3 projects
+
+1245
+Moved Models folder to .Models
+Modified Error.cshtml
+
+1247
+Renamed Models folder to ViewModels
+Modified namespace in ErrorViewModels.cs
+
+1249
+Solved 3 errors by added using statement. 
+Modified Startup.cs
+Changed reference in Error.cshtml
+Ran application, worked perfectly

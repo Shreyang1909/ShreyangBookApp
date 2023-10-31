@@ -1,6 +1,6 @@
 using System;
 
-namespace ShreyangBookApp.Models
+namespace ShreyangBookApp.Models.ViewModels
 {
     public class ErrorViewModel
     {
