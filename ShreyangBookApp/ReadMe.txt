@@ -59,3 +59,6 @@ ShreyangBook.Utility
 1221
 Moved Data folder to .DataAccess
 
+1233
+Installed 3 packages
+Deleted Migration folder
