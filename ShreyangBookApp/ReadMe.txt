@@ -40,7 +40,9 @@ into layout.cshtml folder change navbar_light with a Navbar_dark and change bg_l
 1208
 change footer into _Layout.cshtml folder with text-white 50 bg-primary.
 
-1555
+1212
 removed a text-dark from line 9,20,23 of loginPartial.cshtml folder
+Tested project, ran perfectly
+
 
 
