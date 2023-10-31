@@ -62,3 +62,7 @@ Moved Data folder to .DataAccess
 1233
 Installed 3 packages
 Deleted Migration folder
+
+1236
+Modified namespace in ApplicationDbContext.cs
+Deleted Class1.cs from 3 projects

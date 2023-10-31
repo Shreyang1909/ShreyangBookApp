@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ShreyangBookApp.Data
+namespace ShreyangBookApp.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
