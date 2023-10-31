@@ -84,3 +84,15 @@ Ran application, worked perfectly
 1258
 Added SD.cs class in Utility project
 Added project referenes Main project and DataAccess
+
+1301
+Added new area named Customer
+Modified startup.cs , {area=customer}
+
+1303
+Moved HomeController.cs to Customer's Controller
+Deleted Data and Models
+
+1305
+Modified namespace in HomeController.cs 
+Moved Home folder to Customer Views
