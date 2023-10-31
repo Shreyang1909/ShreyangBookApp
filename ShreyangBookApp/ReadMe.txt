@@ -50,3 +50,12 @@ Added styles and scripts in _Layout.cshtml
 1216
 Added dropdown in _Layout.cshtml 
 
+1220
+Added 3 class libraries using .net 5.0 named
+ShreyangBook.DataAccess
+ShreyangBook.Models
+ShreyangBook.Utility
+
+1221
+Moved Data folder to .DataAccess
+
