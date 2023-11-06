@@ -160,3 +160,21 @@ Modified ApplicationDbContext.cs
 Reviewed and modified class and interface in Repository folders
 Removed error by adding using statements
 Added remaining code to CategoryRepository.cs and comments in it
+
+1722
+Added new interface in IRpository folder 
+Insalled Dapper package
+
+1740
+Added New class in Repository folder
+added connections in it
+
+1744
+Added IUnitOfWork interface in IRepository
+
+1745
+Added UnitOfWork class in Repository
+modified the code , solved the errors
+
+1750
+Made it accecible in Startup.cs

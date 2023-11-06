@@ -5,6 +5,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using ShreyangBook.DataAccess.Repository;
+using ShreyangBook.DataAccess.Repository.IRepository;
 using ShreyangBookApp.DataAccess.Data;
 
 namespace ShreyangBookApp
@@ -28,6 +30,7 @@ namespace ShreyangBookApp
 
             services.AddDefaultIdentity<IdentityUser>()     //options => options.SignIn.RequireConfirmedAccount = true
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
         }
 
