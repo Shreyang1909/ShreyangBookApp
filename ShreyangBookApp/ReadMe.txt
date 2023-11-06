@@ -111,3 +111,17 @@ Tested Appliocation, ran successfully
 
 1318
 Upldated README.md
+
+
+2023-11-06
+
+1616
+Started Part-2 
+
+1619
+Built Project and modified appsettings.json
+
+1622
+Added following migrations to .DataAccess
+20231106212109_AddDefaultIdentityMigration.Designer.cs
+20231106212109_AddDefaultIdentityMigration.cs 
