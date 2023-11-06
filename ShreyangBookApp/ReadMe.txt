@@ -125,3 +125,17 @@ Built Project and modified appsettings.json
 Added following migrations to .DataAccess
 20231106212109_AddDefaultIdentityMigration.Designer.cs
 20231106212109_AddDefaultIdentityMigration.cs 
+
+1627
+REviewed sql server object explorer
+
+1635
+Created new Category class in Models
+ran migration AddCategoryToDb
+
+
+1637
+Modified ApplicationDbContext.cs
+ran migration AddCategoryToDb2
+Updated Database
+Reviewed SQL SOE
