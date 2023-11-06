@@ -191,3 +191,18 @@ Added code form provied file in Index view
 Modified _Layout.cshtml
 Changed Privacy navigation to Category
 Tested Application, Ran perfectly
+
+1828
+Added script in Category.js
+Modified Index.cshtml
+Tested Application ,ran perfectly
+
+1838
+Added IActionresult to the controller and added a View 
+Added partial view named _CreateAndBackToListButton and _EditAndBackToListButton
+
+1853
+Modified Upsert.cshtml 
+Added Model statement in it 
+Added asp-action in Index.cshtml
+Ran Application , worked good
