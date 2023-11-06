@@ -149,3 +149,14 @@ Created IRepository.cs and added CRUD methods in it.
 1654
 Created Repository class in Repository folder
 Updated using statements
+
+1700
+Created CategoryRepository.cs and ICategoryRepository.cs and modified 
+
+1706
+Modified ApplicationDbContext.cs
+
+1712
+Reviewed and modified class and interface in Repository folders
+Removed error by adding using statements
+Added remaining code to CategoryRepository.cs and comments in it
