@@ -139,3 +139,13 @@ Modified ApplicationDbContext.cs
 ran migration AddCategoryToDb2
 Updated Database
 Reviewed SQL SOE
+
+1645
+Created Repository folder ,  created IRepository folder in it.
+
+1648
+Created IRepository.cs and added CRUD methods in it.
+
+1654
+Created Repository class in Repository folder
+Updated using statements
