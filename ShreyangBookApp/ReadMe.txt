@@ -178,3 +178,16 @@ modified the code , solved the errors
 
 1750
 Made it accecible in Startup.cs
+
+1808 
+Added New controller in Admin Area, added using statements to solve errors
+
+1810
+Added New folder in Admin Area 
+Added razorview named category in it 
+Added code form provied file in Index view
+
+1819
+Modified _Layout.cshtml
+Changed Privacy navigation to Category
+Tested Application, Ran perfectly
