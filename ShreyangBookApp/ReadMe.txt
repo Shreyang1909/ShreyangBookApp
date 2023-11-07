@@ -206,3 +206,12 @@ Modified Upsert.cshtml
 Added Model statement in it 
 Added asp-action in Index.cshtml
 Ran Application , worked good
+
+1904
+Modified CategoryController.cs amd added save and editmethods
+Added HTTPDELETE in controller
+Modified Category.js
+
+1909
+Added delete functionality in Category.js
+Tested DeLete function ran perfectly.
