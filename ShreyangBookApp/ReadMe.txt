@@ -280,4 +280,23 @@ Added reference to ApplicationDbContext.cs
 
 1349
 Added Product to UnitOfWork and IUnitOfWork
+Tested application, no errors 
+Finished section-1
+
+1408
+Started part-3 section-2 
+
+1410
+Added new ProductController to Admin area to perform CRUD operations and added IWebHostEvironment call
+
+1412
+Created new ProductVM viewmodel in .Models project
+
+1414
+Installed new Microsoft.AspNetCore.Mvc.ViewFeatures package 
+
+1416
+Commented out Upsert post method and modified API call to include Category and CoverType Category
+
+
 
