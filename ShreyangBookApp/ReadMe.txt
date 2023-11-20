@@ -223,3 +223,14 @@ Cloned repository ShreyangBookApp from github and going to start Part-3 section 
 
 1250
 Created new class CoverType in .Models folder
+
+1252
+Added CoverTypeRepository class in Repository folder
+Added ICoverTypeRepository interface in IRepository folder
+
+1556
+Added CoverType to UnitOfWork and IUnitOfWork
+
+1301
+Ran migration 20231120180046_addCoverType.cs in .DataAccess project 
+Updated databse
