@@ -267,3 +267,17 @@ opened SOE to review newly created product table. Validation is already required
 
 1337
 Ran new migration 20231120183648_addValidationToProduct.cs and updated database
+
+1340
+Added new Product class .Models project
+
+1343
+Added IProductRepository interface to IRepository folder
+added ProductRepository class to Repository folder
+
+1346
+Added reference to ApplicationDbContext.cs
+
+1349
+Added Product to UnitOfWork and IUnitOfWork
+
