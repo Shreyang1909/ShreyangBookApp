@@ -252,3 +252,18 @@ Tested application , having error while updating coverType
 1326
 Solved error by renaming EditAndBackToListButton.cshtml to _EditAndBackToListButton.cshtml
 Tested application , worked perfectly
+
+1328
+Added new Product class to .Models project
+
+1330
+Added referene of product to ApplicationDbContext.cs file
+
+1333
+Ran migration 20231120183215_addProductToDb.cs
+
+1335
+opened SOE to review newly created product table. Validation is already required in mentioned columns 
+
+1337
+Ran new migration 20231120183648_addValidationToProduct.cs and updated database
