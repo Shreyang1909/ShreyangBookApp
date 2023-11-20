@@ -298,5 +298,19 @@ Installed new Microsoft.AspNetCore.Mvc.ViewFeatures package
 1416
 Commented out Upsert post method and modified API call to include Category and CoverType Category
 
+1418
+Added Index view to Product and added some properties
+
+1420
+Added product.js and added code from category.js and modifying it.
+
+1421
+Added Product to navbar by updating _Layout.cshtml
+
+1432
+Changed theme as suggested in class
+Tested application ,clicked continue, ran as expected
+
+
 
 
