@@ -215,3 +215,11 @@ Modified Category.js
 1909
 Added delete functionality in Category.js
 Tested DeLete function ran perfectly.
+
+11-20-2023
+
+1247
+Cloned repository ShreyangBookApp from github and going to start Part-3 section - 1
+
+1250
+Created new class CoverType in .Models folder
