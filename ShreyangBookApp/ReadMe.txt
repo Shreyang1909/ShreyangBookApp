@@ -234,3 +234,21 @@ Added CoverType to UnitOfWork and IUnitOfWork
 1301
 Ran migration 20231120180046_addCoverType.cs in .DataAccess project 
 Updated databse
+
+1311
+Added CoverType to navbar by adding it to _Layout.cshtml 
+
+1313
+Created CoverType Controller with all required method
+
+1318
+Created CoverType folder in Views in Models Project.
+Added Index.cshtml and Upsert.cshtml in it.
+
+1322
+Created coverType.cs to add delete method.
+Tested application , having error while updating coverType 
+
+1326
+Solved error by renaming EditAndBackToListButton.cshtml to _EditAndBackToListButton.cshtml
+Tested application , worked perfectly
