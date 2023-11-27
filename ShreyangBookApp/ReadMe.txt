@@ -311,6 +311,28 @@ Added Product to navbar by updating _Layout.cshtml
 Changed theme as suggested in class
 Tested application ,clicked continue, ran as expected
 
+2023-11-27
+1250
+Cloned repository from github , Reviewed section-3 PPT
+
+1252
+Added Upsert view to product in admin area
+
+1255
+Added code in Upsert.cshtml from provided file on balckboard
+
+1257
+Created account tiny.cloud and copied script code from it 
+Added other script code in upsert.cshtml
+
+1259
+Uncommented Ipsert post method from productcontroller 
+
+1304
+craeted folder in wwwroot named imaged in subfolder products
+
+1309
+Tested Application , ran perfectly
 
 
 
