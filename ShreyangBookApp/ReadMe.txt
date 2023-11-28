@@ -334,5 +334,15 @@ craeted folder in wwwroot named imaged in subfolder products
 1309
 Tested Application , ran perfectly
 
+2023-11-28
+1105
+cloned repository started part-4
 
+1108
+Added httppost and httpdelete method in productcontroller in area of admin
 
+1110
+Updated Homecontroller.cs in customer area by adding IUnitOfWork
+
+1112
+Modified select a cover type in Upsert.cshtml
