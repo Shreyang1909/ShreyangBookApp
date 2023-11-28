@@ -346,3 +346,19 @@ Updated Homecontroller.cs in customer area by adding IUnitOfWork
 
 1112
 Modified select a cover type in Upsert.cshtml
+
+1116
+updated index view of customer area to show display image and discription of books
+
+1120
+Added  RuntimeCompilation() method in startup.cs
+
+1125
+Modified column names in product.js to display in table ,in product view
+
+1127
+Added Images folder and products subfolder again in wwwroot, beacause it was not displaying after cloning repository
+
+1129
+Tested Application, Worked completely accurate, showing catalogue in home page.
+Part-4 completed
