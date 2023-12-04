@@ -362,3 +362,9 @@ Added Images folder and products subfolder again in wwwroot, beacause it was not
 1129
 Tested Application, Worked completely accurate, showing catalogue in home page.
 Part-4 completed
+
+2023-12-04
+
+1236
+Added the code in upsert.cshtml file for product and changed the color of category option in dropdown menu
+Forgot to change the CategoryID and CoverTypeID and added the migration - 20231204172306_updateProductModel and update database
